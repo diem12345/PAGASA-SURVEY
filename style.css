@@ -1,0 +1,20 @@
+*{
+   
+}
+body{
+    
+    text-align: center;
+    background-image: url(paku.jpg);
+    background-size: cover;
+    height: 80vh;
+    background-position: center;
+    background-repeat:no-repeat ;
+    
+}
+H1{
+    text-align: center;
+    padding-top: 150px;
+    color: aliceblue;
+    font-size: xx-large;font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: bold;
+}
